@@ -1,0 +1,14 @@
+### GET ALL Items
+Get http://127.0.0.1:4001/data
+
+### Get the first N Items ( N=2
+Get http://127.0.0.1:4001/data/first/2
+
+### Get the last N Items ( N=2 )
+Get http://127.0.0.1:4001/data/last/2
+
+### Sort Items by age (Asc)
+Get http://127.0.0.1:4001/data/sorted-by-age/asc
+
+### Sort Items by age (Desc)
+Get http://127.0.0.1:4001/data/sorted-by-age/desc
